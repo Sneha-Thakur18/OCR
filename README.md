@@ -1,3 +1,5 @@
+//this code is not ours//
+
 from PIL import Image
 img = Image.open('1.jpg').convert('L')  # convert image to 8-bit grayscale
 WIDTH, HEIGHT = img.size
